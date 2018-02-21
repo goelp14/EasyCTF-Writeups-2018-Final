@@ -1,4 +1,3 @@
-# EasyCTF Writeups 2018
 ## Hidden Key
 By PGODULTIMATE
 
