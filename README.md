@@ -12,5 +12,5 @@ Challenge | Category | Points | Remarks
 ----------|:--------:|:------:| -------
 [My Letter]() | Forensics | 80 | 
 [Keyed Xor](./Finished/Keyed-XOR) | Cryptography | 100 | 
-[Hidden Key](./EasyCTF-Writeups-2018-Final/Finished/Hidden-Key.md) | Cryptography | 250 | @
+[Hidden Key](https://github.com/goelp14/EasyCTF-Writeups-2018-Final/blob/master/Finished/Hidden-Key.md) | Cryptography | 250 | @
 
