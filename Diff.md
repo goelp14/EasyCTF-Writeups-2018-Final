@@ -142,7 +142,7 @@ This messed with me for a while because I wasn't sure if I should include that d
 0000 11A0: 61 6E 5F
 ```
 
-This yields **easyctf{diffinitly\_an\_** - I'm getting closer. I finally compare **file** to **file3** and find:
+This yields **easyctf{diffinitly\_an\_** - I'm getting closer. I finally compare **file** to **file4** and find:
 
 ```
 0000 04E0: 65 7A 5F 70 72 6F  62 6C 65 6D 21 7D
