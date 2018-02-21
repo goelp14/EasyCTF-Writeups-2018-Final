@@ -10,7 +10,7 @@ This is a collection of my writeups for challenges in [EasyCTF IV](https://www.e
 ## Writeups
 Challenge | Category | Points | Remarks
 ----------|:--------:|:------:| -------
-[My Letter](EasyCTF-Writeups-2018-Final/Finished/Hidden-Key.md) | Forensics | 80 | 
+[My Letter](./EasyCTF-Writeups-2018-Final/Finished/Hidden-Key.md) | Forensics | 80 | 
 [Keyed Xor](./Finished/Keyed-XOR) | Cryptography | 100 | 
 [Hidden Key](./Finished/Hidden-Key) | Cryptography | 250 | @
 
