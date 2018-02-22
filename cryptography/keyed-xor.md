@@ -114,6 +114,7 @@ passengers
     easyctf{flrzdzazfdzlflagishwlgducgsqu`aqhypibddxteqjdkwyyipciihevcpwauzq}
     profession
 
+
     easyctf{flrzdhajadzlflagishwlgducusar`aqhypibddxteqjvkg~yipciihevcpwauzc}
     protection
 
