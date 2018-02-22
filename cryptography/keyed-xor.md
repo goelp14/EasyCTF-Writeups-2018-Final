@@ -81,7 +81,7 @@ while i < 20538:
 
 The result printed _**Superhuman**_ so that was correct. Now I had to just find out what the second key word was. Essentially I would do the same thing I did to determine if Superhuman was the right word for the second word. This basically just means that `key = 'superhuman' + f` instead of just **f**. So, I just replaced the code with this:
 
-```
+```py
 from binascii import unhexlify
 from binascii import hexlify
 x = [22, 20, 3, 28, 17, 28, 19, 22, 7, 2, 2, 8, 11, 28, 4, 9, 21, 13, 21, 2, 21, 25, 17, 2, 27, 27, 29, 26, 13, 9, 20, 7, 12, 1, 22, 2, 6, 9, 14, 17, 2, 29, 9, 21, 27, 10, 17, 9, 25, 26, 21, 3, 5, 2, 14, 4, 10, 16, 6, 17, 3, 22, 25, 12, 26, 13, 3, 14, 17, 25, 17, 7, 21, 23, 24]
