@@ -13,5 +13,17 @@ For C, consider including stdio.h and reading input using read.
 For C++, consider including iostream and reading input using c in.
 ```
 
+This is basically doing a pretty simple Hello World but with interchangeable names in front.
+
+```py
+#!/usr/bin/env python3
+
+def printName(name): #take in the name as a parameter
+    nameFull = "Hello, " + name + "!" #just add the name
+    print (nameFull) #this is not hard
+
+printName(input())
+```
+
 
 
