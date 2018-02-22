@@ -106,14 +106,11 @@ I basically just filtered the results so that it printed out all the flags that 
     easyctf{flrgxoazfdzlflagishwlgdhrsqu`aqhypibddxtelvqkwyyipciihevcpwahfd}
     possession
 
-```
-easyctf{flrixoagrhgqflagishwlgdfrslal|bqhypibddxtebvqkjmutbpciihevcpwaffd}
-passengers
-```
+    easyctf{flrixoagrhgqflagishwlgdfrslal|bqhypibddxtebvqkjmutbpciihevcpwaffd}
+    passengers
 
     easyctf{flrzdzazfdzlflagishwlgducgsqu`aqhypibddxteqjdkwyyipciihevcpwauzq}
     profession
-
 
     easyctf{flrzdhajadzlflagishwlgducusar`aqhypibddxteqjvkg~yipciihevcpwauzc}
     protection
@@ -142,15 +139,11 @@ passengers
     easyctf{flagynajadzlflagishwlgwh~ssar`aqhypibddxtvlwpkg~yipciihevcpwrhge}
     correction
 
-```
-easyctf{flq|jhadpcaqflagishwlggsmusocgzbqhypibddxtfwdvkio~rbpciihevcpwbstc}
-statements
-```
+    easyctf{flq|jhadpcaqflagishwlggsmusocgzbqhypibddxtfwdvkio~rbpciihevcpwbstc}
+    statements
 
-```
-easyctf{flomxoagrhgqflagishwlgybrslal|bqhypibddxtxfvqkjmutbpciihevcpw|bfd}
-messengers
-```
+    easyctf{flomxoagrhgqflagishwlgybrslal|bqhypibddxtxfvqkjmutbpciihevcpw|bfd}
+    messengers
 
     easyctf{fl`zbxangbzoflagishwlgvueesetfa|qhypibddxtwqlfkcxi|pciihevcpwsu|s}
     bridegroom
@@ -161,110 +154,78 @@ messengers
     easyctf{flpmxlajadcgflagishwlgfbqsar`xtqhypibddxtgfvrkg~yptpciihevcpwcbfg}
     respective
 
-```
-easyctf{flrznampcaqflagishwlgduibsfcgzbqhypibddxteqako~rbpciihevcpwaupt}
-precedents
-```
+    easyctf{flrznampcaqflagishwlgduibsfcgzbqhypibddxteqako~rbpciihevcpwaupt}
+    precedents
 
-```
-easyctf{flvyyaypcvgflagishwlgo~dsrcgmtqhypibddxtakwgkto~etpciihevcpweogr}
-threepence
-```
+    easyctf{flvyyaypcvgflagishwlgo~dsrcgmtqhypibddxtakwgkto~etpciihevcpweogr}
+    threepence
 
     easyctf{flpmhnahadzlflagishwlgfbosscr`aqhypibddxtgffpke~yipciihevcpwcbve}
     recreation
 
-```
-easyctf{flrzdzazfbgqflagishwlgducgsquf|bqhypibddxteqjdkwytbpciihevcpwauzq}
-professors
-```
+    easyctf{flrzdzazfbgqflagishwlgducgsquf|bqhypibddxteqjdkwytbpciihevcpwauzq}
+    professors
 
-```
-easyctf{flrmyagalrgflagishwlgdb~bslrhitqhypibddxtefwakj~qatpciihevcpwabgt}
-percentage
-```
+    easyctf{flrmyagalrgflagishwlgdb~bslrhitqhypibddxtefwakj~qatpciihevcpwabgt}
+    percentage
 
     easyctf{fl`zbxazxl|fflagishwlgvueesqkhguqhypibddxtwqlfkwgqoupciihevcpwsu|s}
     bridesmaid
 
-```
-easyctf{fldixhag|crqflagishwlgrfuslogibqhypibddxtsbvvkjc~abpciihevcpwwffc}
-fastenings
-```
+    easyctf{fldixhag|crqflagishwlgrfuslogibqhypibddxtsbvvkjc~abpciihevcpwwffc}
+    fastenings
 
-```
-easyctf{flfaxnazehvvflagishwlgpnssqvlmeqhypibddxtqjvpkwzueepciihevcpwunfe}
-disrespect
-```
+    easyctf{flfaxnazehvvflagishwlgpnssqvlmeqhypibddxtqjvpkwzueepciihevcpwunfe}
+    disrespect
 
     easyctf{flfalnazfdzlflagishwlgpnkssqu`aqhypibddxtqjbpkwyyipciihevcpwunre}
     digression
 
-```
-easyctf{flaiylagahgqflagishwlgwf~qslrl|bqhypibddxtvbwrkj~utbpciihevcpwrfgg}
-carpenters
-```
+    easyctf{flaiylagahgqflagishwlgwf~qslrl|bqhypibddxtvbwrkj~utbpciihevcpwrfgg}
+    carpenters
 
-```
-easyctf{flfaxoagahgqflagishwlgpnrslrl|bqhypibddxtqjvqkj~utbpciihevcpwunfd}
-dissenters
-```
+    easyctf{flfaxoagahgqflagishwlgpnrslrl|bqhypibddxtqjvqkj~utbpciihevcpwunfd}
+    dissenters
 
-```
-easyctf{flrznampcvgflagishwlgduibsfcgmtqhypibddxteqako~etpciihevcpwaupt}
-precedence
-```
+    easyctf{flrznampcvgflagishwlgduibsfcgmtqhypibddxteqako~etpciihevcpwaupt}
+    precedence
 
     easyctf{flqkjlanglvgflagishwlggdmqsethmtqhypibddxtf`drkcxqetpciihevcpwbdtg}
     scapegrace
 
-```
-easyctf{flagflagflagflagishwlgwhaqsluhztqhypibddxtvlhrkjyqrtpciihevcpwrhxg}
-compensate
-```
+    easyctf{flagflagflagflagishwlgwhaqsluhztqhypibddxtvlhrkjyqrtpciihevcpwrhxg}
+    compensate
 
-```
-easyctf{flrgxoazfbgqflagishwlgdhrsquf|bqhypibddxtelvqkwytbpciihevcpwahfd}
-possessors
-```
+    easyctf{flrgxoazfbgqflagishwlgdhrsquf|bqhypibddxtelvqkwytbpciihevcpwahfd}
+    possessors
 
     easyctf{flaitamglyqflagishwlgwfxisfthbbqhypibddxtvbqjk`xqjbpciihevcpwrfa}
     cathedrals
 
-```
-easyctf{flfmxlagfhgqflagishwlgpbqslul|bqhypibddxtqfvrkjyutbpciihevcpwubfg}
-despensers
-```
+    easyctf{flfmxlagfhgqflagishwlgpbqslul|bqhypibddxtqfvrkjyutbpciihevcpwubfg}
+    despensers
 
-```
-easyctf{flumorazqllqflagishwlgcbhosqbhwbqhypibddxtbfalkwnqbpciihevcpwfbqy}
-wednesdays
-```
+    easyctf{flumorazqllqflagishwlgcbhosqbhwbqhypibddxtbfalkwnqbpciihevcpwfbqy}
+    wednesdays
 
-```
-easyctf{flrzdzazfbggflagishwlgducgsquf|tqhypibddxteqjdkwyttpciihevcpwauzq}
-professore
-```
+    easyctf{flrzdzazfbggflagishwlgducgsquf|tqhypibddxteqjdkwyttpciihevcpwauzq}
+    professore
 
-```
-easyctf{flrznhagfdzlflagishwlgduiusluaqhypibddxteqvkjyyipciihevcpwaupc}
-pretension
-```
+    easyctf{flrznhagfdzlflagishwlgduiusluaqhypibddxteqvkjyyipciihevcpwaupc}
+    pretension
 
-```
-easyctf{flrznjagadcgflagishwlgduiwslrxtqhypibddxteqtkj~yptpciihevcpwaupa}
-preventive
-```
+    easyctf{flrznjagadcgflagishwlgduiwslrxtqhypibddxteqtkj~yptpciihevcpwaupa}
+    preventive
 
     easyctf{fldgyza`axggflagishwlgrh~gskr||tqhypibddxtslwdkm~ettpciihevcpwwhgq}
     forfeiture
 
-```
-easyctf{flvyyazvbggflagishwlgo~dsqef|tqhypibddxtakwgkwittpciihevcpweogr}
-threescore
+    easyctf{flvyyazvbggflagishwlgo~dsqef|tqhypibddxtakwgkwittpciihevcpweogr}
+    threescore
 
-reached end
-```
+    reached end
+
+
 
 Immediately the result for **compensate** stood out because the start was just a bunch of "flagflagflag" in the beginning. I tested that out and it was correct:
 
