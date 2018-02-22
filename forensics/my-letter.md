@@ -49,6 +49,10 @@ So, I did some research and found that my terminal on mac can actually extract z
 
 This gave me a folder called out. I opened it and found some suspicious stuff - mainly the picture named "template". I opened the image and voila it was the flag.
 
+![](/assets/Screen Shot 2018-02-21 at 12.16.07 PM.png)
+
+![](/assets/template.png)
+
 ```
 easyctf{r3j3ct3d_4nd_d3jected}
 ```
