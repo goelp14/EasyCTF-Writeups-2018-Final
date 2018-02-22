@@ -13,5 +13,5 @@ For C, consider including stdio.h and reading input using read.
 For C++, consider including iostream and reading input using c in.
 ```
 
-I used python for this too.
+
 
