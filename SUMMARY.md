@@ -9,4 +9,5 @@
   * [Hidden Key](cryptography/hidden-key.md)
 * [Programming](programming.md)
   * [Exclusive](programming/exclusive.md)
+  * [Taking Input](programming/taking-input.md)
 
