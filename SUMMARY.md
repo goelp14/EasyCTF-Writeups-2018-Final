@@ -11,4 +11,6 @@
   * [Exclusive](programming/exclusive.md)
   * [Taking Input](programming/taking-input.md)
   * [Over and Over](programming/over-and-over.md)
+* [Binary Exploitation](binary-exploitation.md)
+  * [Rop1](binary-exploitation/rop1.md)
 
